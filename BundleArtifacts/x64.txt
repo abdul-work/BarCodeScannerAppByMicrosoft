@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\bin\x64\Debug\BarcodeScanner_1.0.3.0_x64_Debug.msix
+SymbolPackage=C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\AppPackages\BarcodeScanner_1.0.3.0_Debug_Test\BarcodeScanner_1.0.3.0_x64_Debug.appxsym

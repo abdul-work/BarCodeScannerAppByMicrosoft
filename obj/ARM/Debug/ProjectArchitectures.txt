@@ -1,0 +1,1 @@
+C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\BarcodeScanner.csproj;arm

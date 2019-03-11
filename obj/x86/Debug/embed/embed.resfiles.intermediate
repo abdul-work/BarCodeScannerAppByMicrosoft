@@ -1,0 +1,8 @@
+App.xbf
+MainPage.xbf
+Scenario1_BasicFunctionality.xbf
+Scenario2_MultipleScanners.xbf
+Scenario3_ActiveSymbologies.xbf
+Scenario4_SymbologyAttributes.xbf
+Scenario5_DisplayingBarcodePreview.xbf
+Styles\Styles.xbf

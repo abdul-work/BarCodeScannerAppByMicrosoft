@@ -1,0 +1,15 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\obj\x64\Debug\split.pri"			"resources.pri"
+"C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\obj\x64\Debug\PackageLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\obj\x64\Debug\PackageLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
+"C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\obj\x64\Debug\PackageLayout\BarcodeScanner.xr.xml"			"BarcodeScanner.xr.xml"
+"C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\obj\x64\Debug\PackageLayout\Assets\windows-sdk.png"			"Assets\windows-sdk.png"
+"C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\obj\x64\Debug\PackageLayout\Assets\tile-sdk.png"			"Assets\tile-sdk.png"
+"C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\obj\x64\Debug\PackageLayout\Assets\storeLogo-sdk.png"			"Assets\storeLogo-sdk.png"
+"C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\obj\x64\Debug\PackageLayout\Assets\squareTile-sdk.png"			"Assets\squareTile-sdk.png"
+"C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\obj\x64\Debug\PackageLayout\Assets\splash-sdk.png"			"Assets\splash-sdk.png"
+"C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\obj\x64\Debug\PackageLayout\Assets\smallTile-sdk.png"			"Assets\smallTile-sdk.png"
+"C:\Users\Abdul Rehman\source\repos\Windows-universal-samples2\Samples\BarcodeScanner\cs\obj\x64\Debug\PackageLayout\Assets\microsoft-sdk.png"			"Assets\microsoft-sdk.png"
